@@ -1,1 +1,3 @@
-# PRODIGY_DS_01
+# PRODIGY_DS_01 
+
+In this task, we conducted a comprehensive analysis of global population trends using a dataset that includes various demographic indicators. The primary objective was to examine population growth patterns, compare demographic statistics across different regions, and identify key factors influencing population changes. The analysis involved data cleaning, exploratory data analysis (EDA), and visualization techniques. We created bar charts to visualize categorical data, such as the distribution of gender across different populations, and histograms to illustrate the distribution of continuous variables, like age. These visualizations provided valuable insights into population dynamics and helped in understanding demographic distributions more clearly.
